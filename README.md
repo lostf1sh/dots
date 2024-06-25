@@ -1,4 +1,4 @@
-## my personal hyprland on ArchBTW
+## Cool Hyprland Setup
 
 ### screenshots:
 ![desktop](https://telegra.ph/file/0d24a71021255bc5b3460.png)\
@@ -17,8 +17,8 @@
     ```
 - clone the repo:
     ```bash
-    git clone https://github.com/ArchLainux/hyprland-dotfiles.git
-    cd hyprland-dotfiles
+    git clone https://github.com/lostf1sh/dotfiles.git
+    cd dotfiles
     ```
 - run the install script:
     ```bash
@@ -33,12 +33,12 @@
     ```
 
 ## special thanks
-[hyprland](https://github.com/hyprwm/Hyprland) - for the best wayland window manager\
-[catppuccin](https://github.com/catppuccin) - for the best theme ever\
-[nvchad](https://github.com/NvChad/NvChad/tree/v2.0) - for the neovim base config\
-[dreamsofcode-io](https://github.com/dreamsofcode-io) - for the best custom nvchad setup from the best youtuber ever :)\
-[newmanls](https://github.com/newmanls/rofi-themes-collection) - for rofi style\
-[jluttine](https://github.com/jluttine/rofi-power-menu) - for rofi power menu script\
-[kangie](https://github.com/Kangie/sddm-sugar-candy) - for sddm theme\
-[archwiki members](https://wiki.archlinux.org/title/Hyprland) - for mako scripts from their wiki\
-[doprz](https://github.com/doprz/dipc) - for dipc :3
+[hyprland](https://github.com/hyprwm/Hyprland) - For Cool WM
+[catppuccin](https://github.com/catppuccin) - For Cool Theme
+[nvchad](https://github.com/NvChad/NvChad/tree/v2.0) - For Cool Base Config
+[dreamsofcode-io](https://github.com/dreamsofcode-io) - For Cool NVChad Setup
+[newmanls](https://github.com/newmanls/rofi-themes-collection) - For Cool Rofi Style
+[jluttine](https://github.com/jluttine/rofi-power-menu) - For Cool Rofi Power Script
+[kangie](https://github.com/Kangie/sddm-sugar-candy) - for Cool SDDM Theme
+[archwiki members](https://wiki.archlinux.org/title/Hyprland) - For Cool Mako Scripts From Wiki Users
+[doprz](https://github.com/doprz/dipc) - For Cool dipc :3
