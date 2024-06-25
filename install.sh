@@ -4,7 +4,7 @@ HOME_CONFIG_DIR=${XDG_CONFIG_HOME:-$HOME/.config}
 OLD_DOTS=${HOME}/old_configurations
 THEME_DIR=/usr/share/themes/catppuccin-mocha-lavender-standard+default
 
-printf "installing dependencies with paru...\n"
+printf "installing deps with paru...\n"
 sleep 3
 paru -S --needed - < deps.txt
 clear
