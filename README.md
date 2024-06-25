@@ -1,9 +1,7 @@
 ## Cool Hyprland Setup
 
-### screenshots:
-![desktop](https://telegra.ph/file/0d24a71021255bc5b3460.png)\
-![hyprlock](https://telegra.ph/file/b97fbc483139a78afacfa.png)\
-![sddm](https://telegra.ph/file/27fd817a415d2a539398a.png)
+### screenshot:
+![desktop](https://telegra.ph/file/ad139752c268f5ee38e9d.png)\
 
 ### how to use:
 - install paru (an aur helper):
