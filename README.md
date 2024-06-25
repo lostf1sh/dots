@@ -31,12 +31,20 @@
     ```
 
 ## special thanks
-[hyprland](https://github.com/hyprwm/Hyprland) - For Cool WM 
-[catppuccin](https://github.com/catppuccin) - For Cool Theme 
-[nvchad](https://github.com/NvChad/NvChad/tree/v2.0) - For Cool Base Config 
-[dreamsofcode-io](https://github.com/dreamsofcode-io) - For Cool NVChad Setup 
-[newmanls](https://github.com/newmanls/rofi-themes-collection) - For Cool Rofi Style 
-[jluttine](https://github.com/jluttine/rofi-power-menu) - For Cool Rofi Power Script 
-[kangie](https://github.com/Kangie/sddm-sugar-candy) - for Cool SDDM Theme 
-[archwiki members](https://wiki.archlinux.org/title/Hyprland) - For Cool Mako Scripts From Wiki Users 
-[doprz](https://github.com/doprz/dipc) - For Cool dipc :3 
+[hyprland](https://github.com/hyprwm/Hyprland) - For Cool WM
+
+[catppuccin](https://github.com/catppuccin) - For Cool Theme
+
+[nvchad](https://github.com/NvChad/NvChad/tree/v2.0) - For Cool Base Config
+
+[dreamsofcode-io](https://github.com/dreamsofcode-io) - For Cool NVChad Setup
+
+[newmanls](https://github.com/newmanls/rofi-themes-collection) - For Cool Rofi Style
+
+[jluttine](https://github.com/jluttine/rofi-power-menu) - For Cool Rofi Power Script
+
+[kangie](https://github.com/Kangie/sddm-sugar-candy) - for Cool SDDM Theme
+
+[archwiki members](https://wiki.archlinux.org/title/Hyprland) - For Cool Mako Scripts From Wiki Users
+
+[doprz](https://github.com/doprz/dipc) - For Cool dipc :3
