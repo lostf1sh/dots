@@ -31,6 +31,9 @@
     ```
 
 ## special thanks
+
+[ArchLainux](https://github.com/archlainux) - For Cool Hyprland Setup
+
 [hyprland](https://github.com/hyprwm/Hyprland) - For Cool WM
 
 [catppuccin](https://github.com/catppuccin) - For Cool Theme
